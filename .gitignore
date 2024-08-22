@@ -1,0 +1,8 @@
+client/node_modules
+client/README.md
+client/package-lock.json
+client.vscode
+server/__pycache__
+server/.vscode
+server/Model/database.db
+.vscode
